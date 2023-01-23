@@ -1,3 +1,3 @@
 # PicRS
 
-![PIC RS background age](https://github.com/Priyamakeshwari/PicRS/blob/main/img/bg.jpg?raw=true)
+![PIC RS background image](https://github.com/Priyamakeshwari/PicRS/tree/main/img)
